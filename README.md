@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HasinduNimesh/HasinduNimesh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HasinduNimesh/HasinduNimesh/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
