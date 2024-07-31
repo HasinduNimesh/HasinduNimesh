@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hasindu Nimesh and I'm undergraduate of General Sir John Kotelawala Defence University</h2>
+<h2 align="left">Hi 👋! My name is Hasindu Nimesh, and I'm an undergraduate at General Sir John Kotelawala Defence University.</h2>
 
 ###
 
