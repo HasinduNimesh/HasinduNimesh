@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HasinduNimesh/HasinduNimesh/workflows/snake.svg" alt="Snake animation" />
+![](https://raw.githubusercontent.com/HasinduNimesh/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ###
 
