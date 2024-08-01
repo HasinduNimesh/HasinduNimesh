@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-![](https://raw.githubusercontent.com/HasinduNimesh/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 
 ###
 
