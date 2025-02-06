@@ -8,25 +8,27 @@
 
 ---
 
-### **👨‍💻 About Me**
-<div align="left">
+## **👨‍💻 About Me**
+<table>
+<tr>
+<td>
 <ul style="font-family: Consolas;">
-<li>🎓 Undergraduate at **General Sir John Kotelawala Defence University**</li>
-<li>💻 Passionate about **Web Development, AI, and Embedded Systems**</li>
-<li>🚀 Currently working on **innovative tech solutions**</li>
-<li>🌱 Exploring **Machine Learning, Blockchain, and UI/UX Design**</li>
-<li>📫 Reach me at **hasindunimesh89@gmail.com**</li>
+<li>🎓 Undergraduate at <b>General Sir John Kotelawala Defence University</b></li>
+<li>💻 Passionate about <b>Web Development, AI, and Embedded Systems</b></li>
+<li>🚀 Currently working on <b>innovative tech solutions</b></li>
+<li>🌱 Exploring <b>Machine Learning, Blockchain, and UI/UX Design</b></li>
+<li>📫 Reach me at <b>hasindunimesh89@gmail.com</b></li>
 </ul>
-</div>
-
-<!-- GIF -->
-<p align="right">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="480" height="270" />
-</p>
+</td>
+<td>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="480" height="270"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 **GitHub Achievements**
+## 🏆 **GitHub Achievements**
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hasindunimesh&theme=darkhub&margin-w=8&no-bg=true" alt="GitHub Trophies"/>
@@ -35,14 +37,14 @@
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+## 🛠️ **Tech Stack & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,nodejs,react,github,linux,postgres,mongodb,docker,kubernetes,qt,tensorflow,mysql,d3js,firebase,figma,arduino" />
 </p>
 
 ---
 
-### 🔥 **Stats & Activity**
+## 🔥 **Stats & Activity**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HasinduNimesh&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=HasinduNimesh&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
@@ -51,7 +53,7 @@
 
 ---
 
-### 🌎 **Let's Connect**
+## 🌎 **Let's Connect**
 <p align="center">
   <a href="https://www.instagram.com/hasindu_nimesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1182149229603471401" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -62,21 +64,14 @@
 
 ---
 
-### 🎮 **Fun GIF**
-<p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
-</p>
-
----
-
-### 🐍 **Contributions**
+## 🐍 **Contributions**
 <p align="center">
   <img src="https://github.com/HasinduNimesh/HasinduNimesh/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🎯 **Profile Views**
+## 🎯 **Profile Views**
 <p align="center">
   <img src="https://profile-counter.glitch.me/HasinduNimesh/count.svg?" />
 </p>
