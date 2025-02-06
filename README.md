@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">🚀 Hey there! I'm <span style="color:#ff00ff">Hasindu Nimesh</span> 👋</h2>
-<h3 align="center">💻 Full Stack Developer | AI Explorer 🤖</h3>
+<h3 align="center">💻 Full Stack Developer | Cybersecurity Enthusiast | AI Explorer 🤖</h3>
 
 ---
 
@@ -13,22 +13,32 @@
 - 💻 Passionate about **Web Development, Cybersecurity, and AI**  
 - 🚀 Currently working on **innovative tech solutions**  
 - 🛡️ Enthusiastic about **privacy, security, and ethical hacking**  
-- 🌱 Exploring **Machine Learning & Blockchain**  
+- 🌱 Exploring **Machine Learning, Blockchain, and Embedded Systems**  
 - 📫 Reach me at **hasindunimesh89@gmail.com**  
 
 ---
 
-### 🔥 **Stats & Activity**
+### 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HasinduNimesh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinduNimesh&locale=en&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hasindunimesh&theme=darkhub&margin-w=8&no-bg=true" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,nodejs,react,github,linux,postgres,mongodb,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,nodejs,react,github,linux,postgres,mongodb,docker,kubernetes,qt,tensorflow,mysql,d3js,firebase,figma,arduino" />
+</p>
+
+---
+
+### 🔥 **Stats & Activity**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HasinduNimesh&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasinduNimesh&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinduNimesh&layout=compact&theme=radical&hide_border=true" height="150" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -44,13 +54,14 @@
 
 ---
 
+### 🎮 **Fun GIF**
 <p align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
 
 ---
 
-### 🐍 **Contribution Snake**
+### 🐍 **Contributions**
 <p align="center">
   <img src="https://github.com/HasinduNimesh/HasinduNimesh/blob/output/github-contribution-grid-snake.svg" />
 </p>
