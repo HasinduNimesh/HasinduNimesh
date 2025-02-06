@@ -10,36 +10,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment (Fixes missing dependencies issue)
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16  # Change this version if needed
+          node-version: 16
 
-      # Step 3: Install Dependencies (Ensures required packages are installed)
-      - name: Install Dependencies
-        run: npm install  # If using npm
-        # run: yarn install # If using Yarn
+      - name: Install Required Dependencies
+        run: sudo apt update && sudo apt install -y nodejs npm
 
-      # Step 4: Generate Snake Animation
+      - name: Ensure Output Directory Exists
+        run: mkdir -p dist
+
       - name: Generate Snake 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: HasinduNimesh  # Replace with your GitHub username
           outputs: dist/snake.svg
 
-      # Step 5: Upload the generated snake.svg as an artifact (Updated to v4)
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4  # ✅ Updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
 
-      # Step 6: Deploy Snake Animation to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
