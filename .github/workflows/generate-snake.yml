@@ -10,43 +10,55 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Set up Node.js (Ensures correct environment)
+      # Step 2: Set up Node.js environment
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18  # Adjust if needed
+          node-version: 18  # You can adjust this version if needed
 
-      # Install dependencies (Fixes missing `yarn.lock` issue)
+      # Step 3: Install dependencies (Switch between npm and Yarn automatically)
       - name: Install Dependencies
         run: |
           if [ -f yarn.lock ]; then
+            echo "Yarn detected! Installing with Yarn..."
             npm install -g yarn && yarn install
           else
+            echo "No Yarn detected! Installing with npm..."
             npm install
           fi
 
-      # Ensure the output directory exists
+      # Step 4: Ensure the output directory exists
       - name: Ensure Output Directory Exists
         run: mkdir -p dist
 
-      # Generate the Snake animation
+      # Step 5: Run Tests (if available, otherwise skip)
+      - name: Run Tests (if available)
+        run: |
+          if npm run | grep -q "test"; then
+            npm test
+          else
+            echo "No test script found in package.json. Skipping tests..."
+          fi
+
+      # Step 6: Generate the Snake animation
       - name: Generate Snake 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: HasinduNimesh  # Replace with your GitHub username
           outputs: dist/snake.svg
 
-      # Upload the generated snake.svg as an artifact
+      # Step 7: Upload the generated snake.svg as an artifact
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
 
-      # Deploy the Snake animation to GitHub Pages
+      # Step 8: Deploy the Snake animation to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
