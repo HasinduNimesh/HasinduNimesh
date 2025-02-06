@@ -46,10 +46,11 @@
 
 ## 🔥 **Stats & Activity**
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=HasinduNimesh&theme=noctis-minimus" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-plum.vercel.app?user=HasinduNimesh&theme=merko" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=HasinduNimesh&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinduNimesh&layout=compact&theme=radical&hide_border=true" height="150" alt="Most Used Languages"/>
 </p>
+
 
 ---
 
