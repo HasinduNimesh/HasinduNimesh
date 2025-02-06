@@ -32,9 +32,9 @@ jobs:
           github_user_name: HasinduNimesh  # Replace with your GitHub username
           outputs: dist/snake.svg
 
-      # Step 5: Upload the generated snake.svg as an artifact
+      # Step 5: Upload the generated snake.svg as an artifact (Updated to v4)
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4  # ✅ Updated to v4
         with:
           name: snake
           path: dist
