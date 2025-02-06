@@ -13,29 +13,40 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Ensure Node.js is installed before running anything
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 16  # You can change this version if needed
 
-      - name: Install Required Dependencies
-        run: sudo apt update && sudo apt install -y nodejs npm
+      # Install dependencies using npm or yarn
+      - name: Install Dependencies
+        run: |
+          if [ -f yarn.lock ]; then
+            npm install -g yarn && yarn install
+          else
+            npm install
+          fi
 
+      # Ensure the output directory exists
       - name: Ensure Output Directory Exists
         run: mkdir -p dist
 
+      # Generate the Snake animation
       - name: Generate Snake 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: HasinduNimesh  # Replace with your GitHub username
           outputs: dist/snake.svg
 
+      # Upload the generated snake.svg as an artifact
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
 
+      # Deploy the Snake animation to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:

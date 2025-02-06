@@ -1,0 +1,12 @@
+{
+  "name": "hasindunimesh",
+  "version": "1.0.0",
+  "description": "<h2 align=\"left\">Hi 👋! My name is Hasindu Nimesh, and I'm an undergraduate at General Sir John Kotelawala Defence University.</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
