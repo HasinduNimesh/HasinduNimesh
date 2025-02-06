@@ -13,13 +13,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Ensure Node.js is installed before running anything
+      # Set up Node.js (Ensures correct environment)
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16  # You can change this version if needed
+          node-version: 18  # Adjust if needed
 
-      # Install dependencies using npm or yarn
+      # Install dependencies (Fixes missing `yarn.lock` issue)
       - name: Install Dependencies
         run: |
           if [ -f yarn.lock ]; then
@@ -36,7 +36,7 @@ jobs:
       - name: Generate Snake 🐍
         uses: Platane/snk@v3
         with:
-          github_user_name: HasinduNimesh 
+          github_user_name: HasinduNimesh  # Replace with your GitHub username
           outputs: dist/snake.svg
 
       # Upload the generated snake.svg as an artifact
