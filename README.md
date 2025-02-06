@@ -3,18 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=fff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">🚀 Hey there! I'm <span style="color:#ff00ff">Hasindu Nimesh</span> 👋</h2>
-<h3 align="center">💻 Full Stack Developer | Cybersecurity Enthusiast | AI Explorer 🤖</h3>
+<h2 align="center" style="font-family: Consolas;">🚀 Hey there! I'm <span style="color:#ff00ff">Hasindu Nimesh</span> 👋</h2>
+<h3 align="center" style="font-family: Consolas;">💻 Full Stack Developer | AI Explorer 🤖</h3>
 
 ---
 
 ### **👨‍💻 About Me**
-- 🎓 Undergraduate at **General Sir John Kotelawala Defence University**  
-- 💻 Passionate about **Web Development, Cybersecurity, and AI**  
-- 🚀 Currently working on **innovative tech solutions**  
-- 🛡️ Enthusiastic about **privacy, security, and ethical hacking**  
-- 🌱 Exploring **Machine Learning, Blockchain, and Embedded Systems**  
-- 📫 Reach me at **hasindunimesh89@gmail.com**  
+<div align="left">
+<ul style="font-family: Consolas;">
+<li>🎓 Undergraduate at **General Sir John Kotelawala Defence University**</li>
+<li>💻 Passionate about **Web Development, AI, and Embedded Systems**</li>
+<li>🚀 Currently working on **innovative tech solutions**</li>
+<li>🌱 Exploring **Machine Learning, Blockchain, and UI/UX Design**</li>
+<li>📫 Reach me at **hasindunimesh89@gmail.com**</li>
+</ul>
+</div>
+
+<!-- GIF -->
+<p align="right">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="480" height="270" />
+</p>
 
 ---
 
