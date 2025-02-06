@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">🚀 Hey there! I'm <span style="color:#ff00ff">Hasindu Nimesh</span> 👋</h2>
-<h3 align="center">💻 Full Stack Developer | Cybersecurity Enthusiast | AI Explorer 🤖</h3>
+<h3 align="center">💻 Full Stack Developer | AI Explorer 🤖</h3>
 
 ---
 
@@ -44,7 +44,6 @@
 
 ---
 
-### 🎮 **Fun GIF**
 <p align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </p>
