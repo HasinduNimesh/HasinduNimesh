@@ -46,7 +46,7 @@
 
 ## 🔥 **Stats & Activity**
 <p align="center">
-<img src="https://github-readme-streak-stats-nu-plum.vercel.app?user=HasinduNimesh&theme=merko&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-nu-plum.vercel.app?user=HasinduNimesh&theme=highcontrast" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=HasinduNimesh&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinduNimesh&layout=compact&theme=radical&hide_border=true" height="150" alt="Most Used Languages"/>
 </p>
