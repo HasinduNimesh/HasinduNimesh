@@ -50,6 +50,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinduNimesh&layout=compact&theme=radical&hide_border=true" height="150" alt="Most Used Languages"/>
 </p>
 
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasinduNimesh&theme=github_dark" alt="HasinduNimesh's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=HasinduNimesh&theme=merko" alt="HasinduNimesh's Contribution Streak"/></td>
+    </tr>
+ </table>
+  <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasinduNimesh&theme=github_dark" alt="HasinduNimesh's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasinduNimesh&theme=github_dark&utcOffset=10" alt="HasinduNimesh's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasinduNimesh&theme=github_dark" alt="HasinduNimesh's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasinduNimesh&theme=github_dark" alt="HasinduNimesh's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
 
 ---
 
