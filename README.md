@@ -213,7 +213,7 @@ contact: hasindunimesh89@gmail.com
 <table>
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=HasinduNimesh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=HasinduNimesh&style=plastic&color=blueviolet&label=Profile+Views&labelColor=black" alt="Profile Views"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/github/followers/HasinduNimesh?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
