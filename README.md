@@ -27,8 +27,7 @@ location: Sri Lanka
 interests: 
   - Web Development
   - AI & Machine Learning
-  - Embedded Systems
-  - Blockchain Technology
+  - Software Development
 current_focus: Machine Learning & UI/UX Design
 contact: hasindunimesh89@gmail.com
 ```
@@ -37,12 +36,10 @@ contact: hasindunimesh89@gmail.com
 - 🚀 Building innovative tech solutions
 - 🤖 Exploring AI/ML applications
 - 🌐 Developing full-stack web applications
-- 🔧 Working on embedded systems
-
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="Coding Animation"/>
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="480" height="270"/>
       </div>
     </td>
   </tr>
@@ -214,17 +211,6 @@ contact: hasindunimesh89@gmail.com
   <tr>
     <td align="center">
       <img src="https://profile-counter.glitch.me/HasinduNimesh/count.svg" alt="Profile Views"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/HasinduNimesh?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Since-2024-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Since"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=0D1117" alt="Status"/>
     </td>
   </tr>
 </table>
