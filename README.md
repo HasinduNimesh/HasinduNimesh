@@ -208,32 +208,26 @@ contact: hasindunimesh89@gmail.com
 <!-- Profile Views Counter -->
 <div align="center">
   
-## 👁️ **Profile Views**
+## 👁️ **Profile Analytics**
 
-<img src="https://komarev.com/ghpvc/?username=HasinduNimesh&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<br/>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<!-- Current Stats -->
-<div align="center">
-
-## 🎯 **Current Status**
-
-```
-📅 Last Updated: July 4, 2025
-🚀 Active Projects: 3+ ongoing  
-📚 Learning: Advanced Machine Learning & Cloud Architecture
-💼 Available for: Collaboration & New Opportunities
-```
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=HasinduNimesh&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/HasinduNimesh?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Since-2024-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Since"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=0D1117" alt="Status"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
