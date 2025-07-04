@@ -12,18 +12,23 @@
 
 <!-- About Me Section with Cards -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
+  
 ## 🧑‍💻 **About Me**
+
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
 
 ```yaml
 name: Hasindu Nimesh
 role: Full Stack Developer & AI Explorer
 university: General Sir John Kotelawala Defence University
 location: Sri Lanka
-interests: [Web Development, AI, Embedded Systems, Blockchain]
+interests: 
+  - Web Development
+  - AI & Machine Learning
+  - Embedded Systems
+  - Blockchain Technology
 current_focus: Machine Learning & UI/UX Design
 contact: hasindunimesh89@gmail.com
 ```
@@ -34,12 +39,15 @@ contact: hasindunimesh89@gmail.com
 - 🌐 Developing full-stack web applications
 - 🔧 Working on embedded systems
 
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="Coding GIF"/>
-      </td>
-    </tr>
-  </table>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="Coding Animation"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
@@ -215,6 +223,22 @@ contact: hasindunimesh89@gmail.com
 
 <br/>
 
+<!-- Current Stats -->
+<div align="center">
+
+## 🎯 **Current Status**
+
+```
+🗓️ Last Updated: July 4, 2025
+🚀 Active Projects: 3+ ongoing
+📚 Learning: Advanced Machine Learning & Cloud Architecture
+💼 Available for: Collaboration & New Opportunities
+```
+
+</div>
+
+<br/>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
@@ -224,4 +248,5 @@ contact: hasindunimesh89@gmail.com
 
 <div align="center">
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
+  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
 </div>
