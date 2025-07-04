@@ -143,14 +143,14 @@ contact: hasindunimesh89@gmail.com
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200"/>
+        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200"/>
         <h3>🌐 Web Applications</h3>
         <p>Full-stack web development with modern frameworks</p>
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200"/>
         <h3>🤖 AI/ML Projects</h3>
         <p>Machine learning and artificial intelligence solutions</p>
       </div>
@@ -177,7 +177,7 @@ contact: hasindunimesh89@gmail.com
   <a href="https://www.instagram.com/hasindu_nimesh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://discordapp.com/users/1182149229603471401">
+  <a href="https://discordapp.com/users/1182149229229603471401">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord"/>
   </a>
   <a href="https://www.facebook.com/hasindu.nimesh.94">
@@ -228,20 +228,12 @@ contact: hasindunimesh89@gmail.com
 
 ## 🎯 **Current Status**
 
-<table align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      
 ```
 📅 Last Updated: July 4, 2025
 🚀 Active Projects: 3+ ongoing  
 📚 Learning: Advanced Machine Learning & Cloud Architecture
 💼 Available for: Collaboration & New Opportunities
 ```
-
-    </td>
-  </tr>
-</table>
 
 </div>
 
